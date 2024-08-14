@@ -1,0 +1,16 @@
+.welcome{
+    font-size: 2.5em;
+    background-color: #adff2f;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+}
+.login{
+    font-size: 2.5em;
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+}

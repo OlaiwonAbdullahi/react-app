@@ -4,6 +4,7 @@ import Food from "./Food";
 import Card from "./Card";
 import Button from "./Button";
 import UserGreetings from "./UserGreetings";
+import MyComponent from "./MyComponent";
 function App() {
 
 return(
@@ -16,7 +17,8 @@ return(
     <Card></Card>
     <Card></Card>
     <Button></Button>
-    <UserGreetings isLoggedIn={false} username="Abdul"/>
+    <UserGreetings isLoggedIn={true} username="Abdul"/>
+    <MyComponent></MyComponent>
     </>
 )
 }
